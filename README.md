@@ -1,1 +1,1 @@
-https://github.com/sherlock-project/sherlock-project.io/python3 vadiaquerleite
+https://github.com/sherlock-project/sherlock-project/python3 vadiaquerleite
